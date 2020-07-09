@@ -4,6 +4,7 @@
 composer install
 php run.php
 ```
+![Execution result](doc/result.png)
 
 ## Run tests
 ```bash
